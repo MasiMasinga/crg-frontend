@@ -2,6 +2,8 @@
 
 A React-based frontend application using Vite as the build tool. This project uses modern React features, Tailwind CSS for styling, and fetches timeline data from an external API.
 
+Deployed Website Link: [https://crg-frontend.onrender.com](https://crg-frontend.onrender.com)
+
 ## Prerequisites
 
 - Node.js (version 16 or higher)
